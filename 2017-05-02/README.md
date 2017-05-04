@@ -1,4 +1,4 @@
-# 2017-05-20 EMC measurement
+# 2017-05-02 EMC measurement
 
 This measurement was the third one, but the the first time we passed the EMC tests!
 
